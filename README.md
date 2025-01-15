@@ -6,7 +6,7 @@
 * 10+ Exchanges available
 * PnL calculator
 * Live signals & signal analysis
-* Exchange Liquidity & Volume analysis
+* Live Exchange Liquidity & Volume analysis
 * More features under development...
 
 
